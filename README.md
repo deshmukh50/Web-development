@@ -1,2 +1,2 @@
 # web-development
-assignmeants and partice
+assignments and practice
